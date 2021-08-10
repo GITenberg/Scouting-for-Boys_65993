@@ -1,0 +1,27 @@
+_repo: Scouting-for-Boys_65993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
+    aliases:
+    - Baden-Powell, Robert
+    - Baden-Powell, R. S. S.
+    - Baden-Powell, Baron Robert Stephenson Smyth
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '2144'
+    url: http://www.gutenberg.org/2009/agents/2144
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell
+description: ''
+gutenberg_issued: '2021-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Scouting for Boys
+url: http://www.gutenberg.org/ebooks/65993
